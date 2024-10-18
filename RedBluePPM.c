@@ -10,6 +10,8 @@
  *   the rows and columns for the size of the image to produce. 
 */ 
 
+// Here is a new comment
+
 int main(int argc,    // This is the number of things passed into this function.  
          char *argv[] // This is the array of things passed. 
         ){
